@@ -1,3 +1,4 @@
+import Controller from './controller'
 describe('test', () => {
   it('works', () => {
     expect(true).to.be.true
